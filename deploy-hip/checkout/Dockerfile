@@ -1,0 +1,1 @@
+FROM registry.cn-shenzhen.aliyuncs.com/trainticket/hipster-checkoutservice:testbed
